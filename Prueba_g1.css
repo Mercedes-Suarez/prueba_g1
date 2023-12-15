@@ -1,3 +1,7 @@
 body{
     background-image: url("6020302.jpg");
 }
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+}
